@@ -1,10 +1,3 @@
-<!--
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** paulmboyce, repo_name, twitter_handle, email, project_title, project_description
--->
-
-
 
 <!-- PROJECT SHIELDS -->
 <!--
@@ -81,10 +74,10 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `rn-chain`, `twitter_handle`, `email`, `project_title`, `project_description`
+Chain is an app to help you build a new habit.  Its fun and easy to get started.
 
+Choose a new habit. Do it every day. Buil a chain of success.  Dont break the chain. 
+Get reminders if you want.
 
 ### Built With
 
